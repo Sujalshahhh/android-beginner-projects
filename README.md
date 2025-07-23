@@ -39,3 +39,13 @@ A collection of beginner-friendly Android Studio projects built with Java and XM
 ---
 
 ## 📸 Screenshots
+
+
+## 📦 How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Sujalshahhh/android-beginner-projects.git
+
+ Feel free to use and modify these projects to improve your Android development skills.
+ ## ⭐️ Give it a star if you find it helpful!
