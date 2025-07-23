@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">crud app</string>
+    <string name="enter_name">Enter Name</string>
+</resources>

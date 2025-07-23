@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/buttonRed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="67dp"
+        android:layout_marginTop="50dp"
+        android:text="Red"
+        android:textColor="#000000"
+        android:textColorHint="#FF0000" />
+
+    <Button
+        android:id="@+id/buttonGreen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/buttonRed"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="-46dp"
+        android:layout_marginEnd="80dp"
+        android:text="Green"
+        android:textColor="#000000"
+        android:textColorHint="#64DD17" />
+
+    <Button
+        android:id="@+id/buttonBlue"
+        android:layout_width="154dp"
+        android:layout_height="51dp"
+        android:layout_below="@id/buttonGreen"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="134dp"
+        android:layout_marginTop="58dp"
+        android:layout_marginEnd="139dp"
+        android:text="Blue"
+        android:textColor="#000000"
+        android:textColorHint="#304FFE" />
+
+    <Button
+        android:id="@+id/buttonRainbow1"
+        android:layout_width="156dp"
+        android:layout_height="79dp"
+        android:layout_below="@id/buttonBlue"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="135dp"
+        android:layout_marginTop="63dp"
+        android:layout_marginEnd="135dp"
+        android:text="Rainbow 1"
+        android:textColor="#000000"
+        android:textColorHint="#FDD835" />
+
+    <Button
+        android:id="@+id/buttonClean"
+        android:layout_width="139dp"
+        android:layout_height="62dp"
+        android:layout_below="@+id/buttonRainbow1"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="131dp"
+        android:layout_marginTop="59dp"
+        android:layout_marginEnd="125dp"
+        android:layout_marginBottom="243dp"
+        android:text="Clean Color"
+        android:textColor="#000000" />
+
+</RelativeLayout>

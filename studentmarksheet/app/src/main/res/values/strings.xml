@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">student marksheet</string>
+    <string name="student_info">STUDENT MARKSHEET</string>
+    <string name="name">name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="roll_no">roll no</string>
+    <string name="enter_roll_no">enter roll no</string>
+    <string name="science">science</string>
+    <string name="enter_marks">enter marks</string>
+    <string name="maths">maths</string>
+    <string name="english">english</string>
+    <string name="submit">submit</string>
+</resources>

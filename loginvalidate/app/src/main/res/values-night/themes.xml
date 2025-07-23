@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="Theme.LoginApp" parent="Theme.AppCompat.Light">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">#1976D2</item> <!-- Light Blue -->
+        <item name="colorPrimaryVariant">#1565C0</item> <!-- Darker Light Blue -->
+        <item name="colorOnPrimary">#FFFFFF</item> <!-- Text color on primary -->
+        <!-- Secondary color -->
+        <item name="colorSecondary">#0288D1</item> <!-- Lighter Blue -->
+        <item name="colorSecondaryVariant">#0277BD</item> <!-- Darker secondary blue -->
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <!-- Background -->
+        <item name="android:colorBackground">#E3F2FD</item> <!-- Very light blue -->
+        <item name="android:colorForeground">#000000</item> <!-- Foreground (black text) -->
+    </style>
+
+</resources>

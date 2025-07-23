@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idBtnToggle" type="id" />
+    <item name="idTVStatus" type="id" />
+    <item name="idTVHeading" type="id" />
+    <item name="idRLContainer" type="id" />
+</resources>
