@@ -41,14 +41,19 @@ A collection of beginner-friendly Android Studio projects built with Java and XM
 ## 📸 Screenshots
 crud 
 <img width="446" height="908" alt="Image" src="https://github.com/user-attachments/assets/bce54c6f-ea53-47c8-9511-c660277df7e4" />
+
 calculater
 <img width="471" height="927" alt="Image" src="https://github.com/user-attachments/assets/4dc4511b-cb30-4522-bf19-39b716975938" />
+
 loginapp
 <img width="476" height="931" alt="Image" src="https://github.com/user-attachments/assets/02aed615-62f2-4dc5-bd01-c94a4e5c848d" />
+
 login validation
 <img width="475" height="892" alt="Image" src="https://github.com/user-attachments/assets/0e44aa91-e4cd-438a-b49c-ca3ea994b891" />
+
 student marksheet
 <img width="488" height="937" alt="Image" src="https://github.com/user-attachments/assets/90e9a6d8-fa39-4e70-ad99-bae41dd28541" />
+
 currency converter
 <img width="511" height="921" alt="Image" src="https://github.com/user-attachments/assets/d673b084-2962-453a-b9bc-8c20ce56e7ee" />
 
